@@ -1,4 +1,4 @@
-# new-python-project-template
+# Base template for new python projects
 
 ## Setup
 
